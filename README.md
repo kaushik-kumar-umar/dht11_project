@@ -3,8 +3,8 @@
 Real-time weather monitoring system using an ESP32 and a DHT11 sensor. Live temperature and humidity readings are pushed over Wi-Fi to a cloud dashboard (ThingSpeak) every 20 seconds for remote visualization.
 
 # Hardware
-ESP32 dev board
-DHT11 temperature & humidity sensor
+ESP32 dev board, 
+DHT11 temperature & humidity sensor, 
 Jumper wires, breadboard
 
 # How it works
